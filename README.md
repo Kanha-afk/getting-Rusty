@@ -1,2 +1,2 @@
-# getting-Rusty
+# Getting-Rusty
 WHY NOT
